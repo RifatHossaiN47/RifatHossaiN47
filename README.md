@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rifat Hossain
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ for competitive programming contest
-- 💞️ I’m looking to collaborate on (don't know)
+- 👀 I’m interested in travelling
+- 🌱 I’m currently wasting time
 - 📫 How to reach me ...My email: rifat8851@gmail.com
