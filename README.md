@@ -17,7 +17,9 @@
   <a href="https://linkedin.com/in/rifathossain47"><img src="https://img.shields.io/badge/💼_LinkedIn-rifathossain47-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?user=kJRow6AAAAAJ&hl=en"><img src="https://img.shields.io/badge/🎓_Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://www.researchgate.net/profile/Md-Rifat-Hossen-3"><img src="https://img.shields.io/badge/🔬_ResearchGate-Md_Rifat_Hossen-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://orcid.org/0009-0004-7835-3794"><img src="https://img.shields.io/badge/🆔_ORCID-0009--0004--7835--3794-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://ieeexplore.ieee.org/author/37089928121"><img src="https://img.shields.io/badge/📄_IEEE_Xplore-Author_Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore" /></a>
+  <a href="https://youtube.com/@RifatHossaiNBro"><img src="https://img.shields.io/badge/📺_YouTube-@RifatHossaiNBro-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:rifat8851@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-rifat8851%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -48,9 +50,9 @@
       <p>Published in <b>Springer Nature (SNCS Q2 Journal 2026)</b> and <b>IEEE</b> (SPICSCON, ICCIT, ECCE) focusing on Bengali NLP, Multimodal Disaster Intelligence, and Explainable AI (Grad-CAM & SHAP).</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>💼 Leadership & Skills</h3>
-      <p><b>Startup Co-Founder & Solver</b></p>
-      <p>Co-Founder & Tech Lead at <b>KREMS Technologies</b> (CUET IT Business Incubator Level-3). <b>500+ competitive programming problems solved</b> across Codeforces (1350), LeetCode, and CodeChef (3★).</p>
+      <h3>💼 Leadership & Creative</h3>
+      <p><b>Startup Co-Founder & Creator</b></p>
+      <p>Co-Founder & Tech Lead at <b>KREMS Technologies</b> (CUET IT Business Incubator). <b>500+ CP problems solved</b> across Codeforces & LeetCode. Cinematic filmmaker & storyteller (<a href="https://youtube.com/@RifatHossaiNBro"><b>@RifatHossaiNBro</b></a>).</p>
     </td>
   </tr>
 </table>
