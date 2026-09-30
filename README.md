@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Md. Rifat Hossen
+# 👋 Md Rifat Hossen
 ### Full-Stack Software Engineer · Mobile App Architect · AI Researcher
 **Department of Computer Science & Engineering, Chittagong University of Engineering and Technology (CUET)**
 
