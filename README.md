@@ -1,112 +1,272 @@
 <div align="center">
 
-# 👋 Md Rifat Hossen
-### Full-Stack Software Engineer · Mobile App Architect · AI Researcher
+# 👋 Hi, I'm Md Rifat Hossen
+### Full-Stack Software Engineer · Mobile App Architect · Springer & IEEE-Published AI Researcher
 **Department of Computer Science & Engineering, Chittagong University of Engineering and Technology (CUET)**
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+App+Engineer;Springer+Nature+%26+IEEE-Published+AI+Researcher;Creator+of+MyCUETBus+%26+CUET+FoodExpress;Next.js+16%2C+React+Native%2C+IoT+%26+PyTorch+Builder;UI%2FUX+Designer+%26+General+Secretary+at+DCAC" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://rifathossen47.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-rifathossen47.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rifathossain47/"><img src="https://img.shields.io/badge/💼_LinkedIn-rifathossain47-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ieeexplore.ieee.org/author/37089928121"><img src="https://img.shields.io/badge/📄_Research-Springer_%26_IEEE-005696?style=for-the-badge&logo=ieee&logoColor=white" alt="Research" /></a>
+  <a href="https://ieeexplore.ieee.org/author/37089928121"><img src="https://img.shields.io/badge/📄_IEEE%20Xplore-Author%20Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore" /></a>
+  <a href="https://link.springer.com/article/10.1007/s42979-026-05053-x"><img src="https://img.shields.io/badge/📚_Springer%20Nature-Journal%20Paper-005696?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Nature" /></a>
   <a href="mailto:rifat8851@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-rifat8851%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Chittagong%2C%20Bangladesh-10B981?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Affiliation-CUET%20(CSE)-3B82F6?style=flat-square&logo=academia&logoColor=white" alt="CUET CSE" />
+  <img src="https://img.shields.io/badge/Public%20Repos-33-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-F59E0B?style=flat-square" alt="Status" />
+</p>
+
 </div>
 
 ---
 
-### ⚡ 10-Second Executive Snapshot
+## ⚡ 10-Second Executive Snapshot
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>🚀 Build</h3>
-      <p><b>Campus-Scale Systems</b></p>
-      <p>Creator of <a href="https://mycuetbus.web.app"><b>MyCUETBus</b></a> (live transit GPS app for thousands of students) and <a href="https://cuet-foodexpress-w3.web.app"><b>CUET FoodExpress</b></a> (full-stack campus cafeteria ordering).</p>
+      <p><b>Campus-Scale Production Systems</b></p>
+      <p>Architect of live applications serving thousands of university students — including <a href="https://mycuetbus.web.app"><b>MyCUETBus</b></a> (real-time transit GPS app) and <a href="https://cuet-foodexpress-w3.web.app"><b>CUET FoodExpress</b></a> (full-stack cafeteria ordering platform).</p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>🧠 Research</h3>
-      <p><b>Peer-Reviewed AI/NLP</b></p>
-      <p>Author of <b>5+ published papers</b> in <b>Springer Nature (SNCS Journal)</b> and <b>IEEE</b> (SPICSCON, ICCIT, ECCE) in Bangla NLP, Multimodal AI & XAI.</p>
+      <p><b>Peer-Reviewed AI & NLP</b></p>
+      <p>Author of <b>5+ published papers</b> across <b>Springer Nature (SNCS Journal 2026)</b> and <b>IEEE</b> (SPICSCON, ICCIT, ECCE) specializing in Multimodal AI, Bangla NLP, and Explainable AI (Grad-CAM & SHAP).</p>
     </td>
-    <td width="33%" align="center">
-      <h3>🛠️ Stack</h3>
-      <p><b>Production Toolbelt</b></p>
-      <p><b>Frontend & Mobile:</b> React 19, Next.js 16, React Native, Expo<br/>
-      <b>Backend & Cloud:</b> Node.js, Express, Firebase, MongoDB<br/>
-      <b>AI/ML:</b> Python, PyTorch, Gemini API, Grad-CAM</p>
+    <td width="33%" align="center" valign="top">
+      <h3>🎨 Lead & Design</h3>
+      <p><b>Creative Direction & Leadership</b></p>
+      <p><b>General Secretary</b> at Dhaka College Association of CUET (DCAC) & brand identity designer with a comprehensive portfolio in Adobe Illustrator, Photoshop, and Premiere Pro.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 Top 4 Flagship Projects
+## 🌟 Featured Flagship Works
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚌 <a href="https://github.com/RifatHossaiN47/MyCUETBus">MyCUETBus</a> (v5.0.0)</h4>
-      <p>Real-time university transit tracking with background GPS & MQTT IoT bridge.</p>
-      <p><code>React Native 0.76</code> <code>Expo 52</code> <code>Mapbox GL</code> <code>Firebase RTDB</code></p>
-      <p><a href="https://github.com/RifatHossaiN47/MyCUETBus">💻 GitHub</a> • <a href="https://mycuetbus.web.app/">🌐 Live Portal & APK</a></p>
+      <h3>🚌 <a href="https://github.com/RifatHossaiN47/MyCUETBus">MyCUETBus Ecosystem</a> <code>v5.0.0</code></h3>
+      <p><b>Real-Time Campus Transit Tracking & Telemetry System</b></p>
+      <p>Production cross-platform mobile app for CUET campus buses. Drivers broadcast GPS in the background while students track live positions, bearing angles, and ETA schedules on an interactive map.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native%200.76-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo%20SDK%2052-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mapbox%20GL-000000?style=flat-square&logo=mapbox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase%20RTDB-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <p>
+        <a href="https://github.com/RifatHossaiN47/MyCUETBus"><img src="https://img.shields.io/badge/💻_Code-MyCUETBus-blue?style=flat-square" /></a>
+        <a href="https://mycuetbus.web.app/"><img src="https://img.shields.io/badge/🌐_Live-Portal_%26_APK-success?style=flat-square" /></a>
+        <a href="https://github.com/RifatHossaiN47/mycuetbus-mqtt-bridge"><img src="https://img.shields.io/badge/📡_IoT-MQTT_Bridge-purple?style=flat-square" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🍕 <a href="https://github.com/RifatHossaiN47/cuet-foodexpress-frontend">CUET FoodExpress</a></h4>
-      <p>Full-stack campus food ordering platform with Stripe & admin analytics.</p>
-      <p><code>React 18</code> <code>Vite 5</code> <code>Node.js</code> <code>MongoDB</code> <code>Stripe</code></p>
-      <p><a href="https://github.com/RifatHossaiN47/cuet-foodexpress-frontend">💻 Frontend</a> • <a href="https://github.com/RifatHossaiN47/cuet-foodexpress-backend">💻 Backend</a> • <a href="https://cuet-foodexpress-w3.web.app">🌐 Live App</a></p>
+      <h3>🍕 <a href="https://github.com/RifatHossaiN47/cuet-foodexpress-frontend">CUET FoodExpress</a></h3>
+      <p><b>Full-Stack Campus Food Ordering & Cafeteria Platform</b></p>
+      <p>Modern cafeteria ordering platform with optimistic cart state management, automated image hosting, Stripe checkout, customer order tracking, and administrative analytics dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite%205-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/RifatHossaiN47/cuet-foodexpress-frontend"><img src="https://img.shields.io/badge/💻_Frontend-React-61DAFB?style=flat-square" /></a>
+        <a href="https://github.com/RifatHossaiN47/cuet-foodexpress-backend"><img src="https://img.shields.io/badge/💻_Backend-Express-339933?style=flat-square" /></a>
+        <a href="https://cuet-foodexpress-w3.web.app"><img src="https://img.shields.io/badge/🌐_Live-FoodExpress-green?style=flat-square" /></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🫁 <a href="https://github.com/RifatHossaiN47/cxr-sentinal">CXR-Sentinel</a></h4>
-      <p>AI-assisted chest X-ray triage prototype with 14 findings & uncertainty scoring.</p>
-      <p><code>Next.js 16</code> <code>React 19</code> <code>Google Gemini 2.5</code> <code>Tailwind v4</code></p>
-      <p><a href="https://github.com/RifatHossaiN47/cxr-sentinal">💻 GitHub</a> • <a href="https://github.com/RifatHossaiN47/cxr-sentinal">📑 Architecture</a></p>
+      <h3>🫁 <a href="https://github.com/RifatHossaiN47/cxr-sentinal">CXR-Sentinel</a></h3>
+      <p><b>AI-Assisted Chest X-Ray Structured Reporting Prototype</b></p>
+      <p>Clinical radiology assistant simulating multi-stage workflow: 14 thoracic finding detections, localized ROI overlays, iterative report synthesis, and uncertainty-gated triage scoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google%20Gemini%202.5-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/RifatHossaiN47/cxr-sentinal"><img src="https://img.shields.io/badge/💻_Source-GitHub-black?style=flat-square" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏢 <a href="https://github.com/RifatHossaiN47/krems">KREMS Technologies</a></h4>
-      <p>Digital agency platform showcasing practical AI, RAG & full-stack software.</p>
-      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Turbopack</code> <code>TailwindCSS</code></p>
-      <p><a href="https://github.com/RifatHossaiN47/krems">💻 GitHub</a> • <a href="https://krems.vercel.app">🌐 Live Website</a></p>
+      <h3>🏢 <a href="https://github.com/RifatHossaiN47/krems">KREMS Technologies Platform</a></h3>
+      <p><b>Agency Portal for Practical AI, RAG & Web Systems</b></p>
+      <p>Digital front for KREMS Technologies agency. Features client inquiry workflows, live case studies, deep-dive service accordions, and high-performance Turbopack builds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/RifatHossaiN47/krems"><img src="https://img.shields.io/badge/💻_Code-KREMS-black?style=flat-square" /></a>
+        <a href="https://krems.vercel.app"><img src="https://img.shields.io/badge/🌐_Live-krems.vercel.app-black?style=flat-square" /></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔬 Key Publications (Peer-Reviewed)
+## 🔬 Peer-Reviewed Research & Publications
 
-| Paper | Venue | Links |
-| :--- | :--- | :--- |
-| **BanglaSentNet**: Multi-Aspect Sentiment Analysis with XAI | **Springer Nature** *(SNCS 2026)* | [📄 Paper (DOI)](https://doi.org/10.1007/s42979-026-05053-x) • [💻 Code](https://github.com/RifatHossaiN47/journal-banglasentnet) |
-| **BanglaMM-Disaster**: Multimodal Disaster Classification | **IEEE SPICSCON 2025** | [📄 IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11504189) • [📑 arXiv](https://arxiv.org/abs/2511.21364) • [💻 Code](https://github.com/RifatHossaiN47/conference_BanglaMM-Disaster) |
-| **BanglaASTE**: Aspect-Sentiment-Opinion Triplet Extraction | **IEEE SPICSCON 2025** | [📄 IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11504105) • [💻 Code](https://github.com/RifatHossaiN47/conference_BanglaASTE) |
-| **Fruit Detection & Freshness** with Dual-Head Grad-CAM | **IEEE ICCIT 2025** | [📄 IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11491294) • [🤗 Demo](https://huggingface.co/spaces/nahinfarhan/fruit-classifier) • [💻 Code](https://github.com/RifatHossaiN47/conference-fruit-freshness-xai) |
-| **Wafer Defect Detection** with XAI (WM-811K Benchmark) | **IEEE ECCE 2025** | [📄 IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11013292) • [💻 Code](https://github.com/RifatHossaiN47/conference_semiconductor) |
+<table>
+  <thead>
+    <tr>
+      <th width="48%">Research Paper & Innovation</th>
+      <th width="24%">Venue / Index</th>
+      <th width="28%">Direct Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>BanglaSentNet: Multi-Aspect Sentiment Analysis</b><br/>
+        <sub>Explainable hybrid deep learning combining BanglaBERT, BiLSTM/GRU, length-adaptive ensemble, and SHAP heatmaps (9.4/10 interpretability).</sub>
+      </td>
+      <td>
+        <b>Springer Nature</b><br/>
+        <i>SN Computer Science (2026)</i><br/>
+        Vol. 7, Article 446
+      </td>
+      <td>
+        <a href="https://doi.org/10.1007/s42979-026-05053-x"><img src="https://img.shields.io/badge/DOI-10.1007%2Fs42979--026--05053--x-blue?style=flat-square" /></a><br/>
+        <a href="https://link.springer.com/article/10.1007/s42979-026-05053-x">📄 SpringerLink Paper</a> • <a href="https://github.com/RifatHossaiN47/journal-banglasentnet">💻 Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>BanglaMM-Disaster: Multimodal Disaster Classification</b><br/>
+        <sub>Multimodal deep learning fusing transformer encoders (BanglaBERT) with deep CNNs (ResNet50) across 5,037 annotated Bangla posts (83.76% accuracy).</sub>
+      </td>
+      <td>
+        <b>IEEE SPICSCON 2025</b><br/>
+        <i>IEEE Xplore #11504189</i><br/>
+        <sub>Presented at 3MT 2025</sub>
+      </td>
+      <td>
+        <a href="https://doi.org/10.1109/SPICSCON69221.2025.11504189"><img src="https://img.shields.io/badge/DOI-10.1109%2FSPICSCON-00629B?style=flat-square" /></a><br/>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11504189">📄 IEEE Paper</a> • <a href="https://arxiv.org/abs/2511.21364">📑 arXiv</a> • <a href="https://github.com/RifatHossaiN47/conference_BanglaMM-Disaster">💻 Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>BanglaASTE: Aspect-Sentiment-Opinion Triplet Extraction</b><br/>
+        <sub>End-to-end framework extracting complete (Aspect, Opinion, Sentiment) triplets from colloquial e-commerce reviews using BanglaBERT & XGBoost (89.9% accuracy).</sub>
+      </td>
+      <td>
+        <b>IEEE SPICSCON 2025</b><br/>
+        <i>IEEE Xplore #11504105</i>
+      </td>
+      <td>
+        <a href="https://doi.org/10.1109/SPICSCON69221.2025.11504105"><img src="https://img.shields.io/badge/DOI-10.1109%2FSPICSCON-007EC6?style=flat-square" /></a><br/>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11504105">📄 IEEE Paper</a> • <a href="https://github.com/RifatHossaiN47/conference_BanglaASTE">💻 Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Multi-Task Fruit Freshness with Dual-Head Grad-CAM</b><br/>
+        <sub>Unified ResNet152V2 multi-task network simultaneously predicting fruit variety (99.64%) and freshness (97.27%) with visual explainability.</sub>
+      </td>
+      <td>
+        <b>IEEE ICCIT 2025</b><br/>
+        <i>IEEE Xplore #11491294</i><br/>
+        <sub>Cox's Bazar, Bangladesh</sub>
+      </td>
+      <td>
+        <a href="https://doi.org/10.1109/ICCIT68739.2025.11491294"><img src="https://img.shields.io/badge/DOI-10.1109%2FICCIT-00629B?style=flat-square" /></a><br/>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11491294">📄 IEEE Paper</a> • <a href="https://huggingface.co/spaces/nahinfarhan/fruit-classifier">🤗 HF Demo</a> • <a href="https://github.com/RifatHossaiN47/conference-fruit-freshness-xai">💻 Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Wafer Defect Detection with XAI Insights</b><br/>
+        <sub>Automated deep learning framework classifying semiconductor defect signatures across 811,457 wafer maps (94.08% overall) with layer-wise Grad-CAM.</sub>
+      </td>
+      <td>
+        <b>IEEE ECCE 2025</b><br/>
+        <i>IEEE Xplore #11013292</i>
+      </td>
+      <td>
+        <a href="https://doi.org/10.1109/ECCE64574.2025.11013292"><img src="https://img.shields.io/badge/DOI-10.1109%2FECCE-blue?style=flat-square" /></a><br/>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11013292">📄 IEEE Paper</a> • <a href="https://github.com/RifatHossaiN47/conference_semiconductor">💻 Code</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 🛠️ Core Toolbelt
+## 🛠️ Technical Toolbelt
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,react,nextjs,tailwind,nodejs,express,spring,firebase,mongodb,mysql,pytorch,tensorflow,git,figma" alt="Tech Stack Icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,bash,react,nextjs,tailwind,nodejs,express,spring,firebase,mongodb,mysql,pytorch,tensorflow,git,githubactions,postman,figma,ai,ps,pr" alt="My Skills Toolbelt" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 Live GitHub Analytics
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RifatHossaiN47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatHossaiN47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RifatHossaiN47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Md Rifat Hossen's GitHub Stats" />
+      </td>
+      <td>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatHossaiN47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifatHossaiN47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+## 🎨 Creative Media & Leadership
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 <a href="https://github.com/RifatHossaiN47/Graphic-Design">Visual Identity & Creative Media Portfolio</a></h4>
+      <p>Extensive creative portfolio featuring event marketing campaigns (IEEE CS CUET, Computer Club), vector logos, YouTube cover art, and motion graphics title openers.</p>
+      <p><a href="https://github.com/RifatHossaiN47/Graphic-Design">🎨 Explore Design Showcase →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👔 Extracurricular Leadership & Achievements</h4>
+      <p><b>General Secretary</b> at Dhaka College Association of CUET (DCAC) · Finalist presenter at <b>3MT Bangladesh 2025</b> · Participant at <b>ITBI Startup Pitch Fest 2026</b>.</p>
+      <p><a href="https://github.com/RifatHossaiN47/professional-certifications">📜 View Verified Certifications →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <details>
-<summary>📂 <b>View All 33 Repositories (Categorized Archive)</b></summary>
+<summary>📂 <b>View All 33 Repositories (Categorized Directory)</b></summary>
 <br/>
 
 * **Full-Stack & Web**: [rifathossen47](https://github.com/RifatHossaiN47/rifathossen47), [cuet-foodexpress-frontend](https://github.com/RifatHossaiN47/cuet-foodexpress-frontend), [cuet-foodexpress-backend](https://github.com/RifatHossaiN47/cuet-foodexpress-backend), [krems](https://github.com/RifatHossaiN47/krems), [Stadium-Ticket-Management-System](https://github.com/RifatHossaiN47/Stadium-Ticket-Management-System), [Java-Spring-boot-Quiz-web-app](https://github.com/RifatHossaiN47/Java-Spring-boot-Quiz-web-app), [gooqle](https://github.com/RifatHossaiN47/gooqle), [siyam-it-center](https://github.com/RifatHossaiN47/siyam-it-center), [Rifat_Portfolio](https://github.com/RifatHossaiN47/Rifat_Portfolio)
@@ -117,6 +277,9 @@
 
 </details>
 
+<br/>
+
 <div align="center">
+  <p><i>"Passionate about turning complex real-world problems into clean, scalable, human-centered systems."</i></p>
   <sub>Open to Software Engineering & Applied AI Opportunities • <a href="mailto:rifat8851@gmail.com">rifat8851@gmail.com</a></sub>
 </div>
