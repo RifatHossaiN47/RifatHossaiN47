@@ -1,30 +1,32 @@
 <div align="center">
 
 # 👋 Hi, I'm Md Rifat Hossen
-### Full-Stack Software Engineer · Mobile App Architect · Springer & IEEE-Published AI Researcher
-**Department of Computer Science & Engineering, Chittagong University of Engineering and Technology (CUET)**
+### Full-Stack Software Engineer · Published AI Researcher · Co-Founder @ KREMS Technologies
+**B.Sc. in Computer Science & Engineering, Chittagong University of Engineering and Technology (CUET)**
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+App+Engineer;Springer+Nature+%26+IEEE-Published+AI+Researcher;Creator+of+MyCUETBus+%26+CUET+FoodExpress;Next.js+16%2C+React+Native%2C+IoT+%26+PyTorch+Builder;UI%2FUX+Designer+%26+General+Secretary+at+DCAC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=660&lines=Full-Stack+Web+%26+Mobile+App+Engineer;Springer+Nature+%26+IEEE-Published+AI+Researcher;Creator+of+MyCUETBus+(830%2B+Daily+Campus+Users);Co-Founder+%26+Tech+Lead+at+KREMS+Technologies;Next.js+16%2C+React+Native%2C+IoT+%26+PyTorch+Builder" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <p align="center">
-  <a href="https://rifathossen47.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-rifathossen47.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rifathossain47/"><img src="https://img.shields.io/badge/💼_LinkedIn-rifathossain47-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ieeexplore.ieee.org/author/37089928121"><img src="https://img.shields.io/badge/📄_IEEE%20Xplore-Author%20Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore" /></a>
-  <a href="https://link.springer.com/article/10.1007/s42979-026-05053-x"><img src="https://img.shields.io/badge/📚_Springer%20Nature-Journal%20Paper-005696?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Nature" /></a>
+  <a href="https://rifathossain47.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-rifathossain47.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rifathossain47"><img src="https://img.shields.io/badge/💼_LinkedIn-rifathossain47-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=kJRow6AAAAAJ&hl=en"><img src="https://img.shields.io/badge/🎓_Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.researchgate.net/profile/Md-Rifat-Hossen-3"><img src="https://img.shields.io/badge/🔬_ResearchGate-Md_Rifat_Hossen-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://ieeexplore.ieee.org/author/37089928121"><img src="https://img.shields.io/badge/📄_IEEE_Xplore-Author_Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore" /></a>
   <a href="mailto:rifat8851@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-rifat8851%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Chittagong%2C%20Bangladesh-10B981?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Affiliation-CUET%20(CSE)-3B82F6?style=flat-square&logo=academia&logoColor=white" alt="CUET CSE" />
-  <img src="https://img.shields.io/badge/Public%20Repos-33-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-F59E0B?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/🎓_CUET_CSE-CGPA_3.60%20%2F%204.00-3B82F6?style=flat-square" alt="CUET CGPA" />
+  <img src="https://img.shields.io/badge/🏢_KREMS_Tech-Co--Founder%20%26%20Lead-111827?style=flat-square" alt="KREMS Tech" />
+  <img src="https://img.shields.io/badge/📚_Publications-6%20Peer--Reviewed%20Papers-005696?style=flat-square" alt="Publications" />
+  <img src="https://img.shields.io/badge/📍_Location-Chattogram%20%2F%20Dhaka-10B981?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/🚀_Status-Open%20for%20Opportunities-F59E0B?style=flat-square" alt="Status" />
 </p>
 
 </div>
@@ -36,38 +38,38 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🚀 Build</h3>
-      <p><b>Campus-Scale Production Systems</b></p>
-      <p>Architect of live applications serving thousands of university students — including <a href="https://mycuetbus.web.app"><b>MyCUETBus</b></a> (real-time transit GPS app) and <a href="https://cuet-foodexpress-w3.web.app"><b>CUET FoodExpress</b></a> (full-stack cafeteria ordering platform).</p>
+      <h3>🚀 Production Systems</h3>
+      <p><b>Campus-Scale Scale & Impact</b></p>
+      <p>Architect of live systems used daily by university students — notably <a href="https://mycuetbus.web.app"><b>MyCUETBus</b></a> (real-time transit GPS tracking with <b>834+ active campus users</b>) and <a href="https://cuet-foodexpress-w3.web.app"><b>CUET FoodExpress</b></a> (full-stack cafeteria ordering platform).</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🧠 Research</h3>
-      <p><b>Peer-Reviewed AI & NLP</b></p>
-      <p>Author of <b>5+ published papers</b> across <b>Springer Nature (SNCS Journal 2026)</b> and <b>IEEE</b> (SPICSCON, ICCIT, ECCE) specializing in Multimodal AI, Bangla NLP, and Explainable AI (Grad-CAM & SHAP).</p>
+      <h3>🧠 Scientific Research</h3>
+      <p><b>6 Peer-Reviewed Papers</b></p>
+      <p>Published in <b>Springer Nature (SNCS Q2 Journal 2026)</b> and <b>IEEE</b> (SPICSCON, ICCIT, ECCE) focusing on Bengali NLP, Multimodal Disaster Intelligence, and Explainable AI (Grad-CAM & SHAP).</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🎨 Lead & Design</h3>
-      <p><b>Creative Direction & Leadership</b></p>
-      <p><b>General Secretary</b> at Dhaka College Association of CUET (DCAC) & brand identity designer with a comprehensive portfolio in Adobe Illustrator, Photoshop, and Premiere Pro.</p>
+      <h3>💼 Leadership & Skills</h3>
+      <p><b>Startup Co-Founder & Solver</b></p>
+      <p>Co-Founder & Tech Lead at <b>KREMS Technologies</b> (CUET IT Business Incubator Level-3). <b>500+ competitive programming problems solved</b> across Codeforces (1350), LeetCode, and CodeChef (3★).</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌟 Featured Flagship Works
+## 🌟 Top 4 Flagship Production Works
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🚌 <a href="https://github.com/RifatHossaiN47/MyCUETBus">MyCUETBus Ecosystem</a> <code>v5.0.0</code></h3>
-      <p><b>Real-Time Campus Transit Tracking & Telemetry System</b></p>
-      <p>Production cross-platform mobile app for CUET campus buses. Drivers broadcast GPS in the background while students track live positions, bearing angles, and ETA schedules on an interactive map.</p>
+      <p><b>Real-Time Campus Transit Tracking · 834+ Daily Active Riders</b></p>
+      <p>Live GPS mobile transit system for CUET students & bus drivers. Background location broadcaster with custom Android foreground service, Mapbox vector maps, and IoT MQTT bridge.</p>
       <p>
-        <img src="https://img.shields.io/badge/React%20Native%200.76-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Expo%20SDK%2052-000020?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mapbox%20GL-000000?style=flat-square&logo=mapbox&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase%20RTDB-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/React_Native_0.76-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo_SDK_52-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mapbox_GL-000000?style=flat-square&logo=mapbox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase_RTDB-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
       <p>
         <a href="https://github.com/RifatHossaiN47/MyCUETBus"><img src="https://img.shields.io/badge/💻_Code-MyCUETBus-blue?style=flat-square" /></a>
@@ -77,13 +79,13 @@
     </td>
     <td width="50%" valign="top">
       <h3>🍕 <a href="https://github.com/RifatHossaiN47/cuet-foodexpress-frontend">CUET FoodExpress</a></h3>
-      <p><b>Full-Stack Campus Food Ordering & Cafeteria Platform</b></p>
-      <p>Modern cafeteria ordering platform with optimistic cart state management, automated image hosting, Stripe checkout, customer order tracking, and administrative analytics dashboards.</p>
+      <p><b>Full-Stack Campus Cafeteria & Ordering Platform</b></p>
+      <p>Modern cafeteria ordering platform with optimistic cart state management, Stripe payment checkout, automated email receipts via Mailgun, and real-time administrative analytics dashboards.</p>
       <p>
-        <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite%205-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite_5-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
       </p>
       <p>
@@ -95,27 +97,28 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🫁 <a href="https://github.com/RifatHossaiN47/cxr-sentinal">CXR-Sentinel</a></h3>
-      <p><b>AI-Assisted Chest X-Ray Structured Reporting Prototype</b></p>
-      <p>Clinical radiology assistant simulating multi-stage workflow: 14 thoracic finding detections, localized ROI overlays, iterative report synthesis, and uncertainty-gated triage scoring.</p>
+      <h3>🩻 <a href="https://github.com/RifatHossaiN47/cxr-sentinal">CXR-Sentinel</a></h3>
+      <p><b>AI-Assisted Chest X-Ray Clinical Reporting Prototype</b></p>
+      <p>Radiological perception tool emulating clinical triage: 14 thoracic condition multi-label detection, ROI bounding boxes, iterative report drafting/refining, and composite uncertainty scoring.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Google%20Gemini%202.5-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google_Gemini_2.5-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/RifatHossaiN47/cxr-sentinal"><img src="https://img.shields.io/badge/💻_Source-GitHub-black?style=flat-square" /></a>
+        <a href="https://cxr-sentinal.vercel.app"><img src="https://img.shields.io/badge/🌐_Live-Web_App-black?style=flat-square" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/RifatHossaiN47/krems">KREMS Technologies Platform</a></h3>
       <p><b>Agency Portal for Practical AI, RAG & Web Systems</b></p>
-      <p>Digital front for KREMS Technologies agency. Features client inquiry workflows, live case studies, deep-dive service accordions, and high-performance Turbopack builds.</p>
+      <p>Client portal and project case-study front for KREMS Technologies (incubated at CUET ITBI Level-3). Engineered with component-driven Next.js App Router, Tailwind CSS v4, and dynamic inquiry flows.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <p>
@@ -128,7 +131,7 @@
 
 ---
 
-## 🔬 Peer-Reviewed Research & Publications
+## 🔬 Peer-Reviewed Scientific Publications
 
 <table>
   <thead>
@@ -142,16 +145,16 @@
     <tr>
       <td>
         <b>BanglaSentNet: Multi-Aspect Sentiment Analysis</b><br/>
-        <sub>Explainable hybrid deep learning combining BanglaBERT, BiLSTM/GRU, length-adaptive ensemble, and SHAP heatmaps (9.4/10 interpretability).</sub>
+        <sub>Explainable hybrid deep learning combining BanglaBERT, BiLSTM/GRU, length-adaptive ensemble, and SHAP heatmaps (9.4/10 human interpretability score).</sub>
       </td>
       <td>
         <b>Springer Nature</b><br/>
         <i>SN Computer Science (2026)</i><br/>
-        Vol. 7, Article 446
+        <sub>Q2 Journal • Vol. 7, Art. 446</sub>
       </td>
       <td>
         <a href="https://doi.org/10.1007/s42979-026-05053-x"><img src="https://img.shields.io/badge/DOI-10.1007%2Fs42979--026--05053--x-blue?style=flat-square" /></a><br/>
-        <a href="https://link.springer.com/article/10.1007/s42979-026-05053-x">📄 SpringerLink Paper</a> • <a href="https://github.com/RifatHossaiN47/journal-banglasentnet">💻 Code</a>
+        <a href="https://link.springer.com/article/10.1007/s42979-026-05053-x">📄 SpringerLink</a> • <a href="https://github.com/RifatHossaiN47/journal-banglasentnet">💻 Code</a>
       </td>
     </tr>
     <tr>
@@ -176,7 +179,8 @@
       </td>
       <td>
         <b>IEEE SPICSCON 2025</b><br/>
-        <i>IEEE Xplore #11504105</i>
+        <i>IEEE Xplore #11504105</i><br/>
+        <sub>Corresponding Author</sub>
       </td>
       <td>
         <a href="https://doi.org/10.1109/SPICSCON69221.2025.11504105"><img src="https://img.shields.io/badge/DOI-10.1109%2FSPICSCON-007EC6?style=flat-square" /></a><br/>
@@ -217,12 +221,19 @@
 
 ---
 
-## 🛠️ Technical Toolbelt
+## 🛠️ Technical Toolbelt & Algorithmic Foundations
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,bash,react,nextjs,tailwind,nodejs,express,spring,firebase,mongodb,mysql,pytorch,tensorflow,git,githubactions,postman,figma,ai,ps,pr" alt="My Skills Toolbelt" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/RifatHossain47"><img src="https://img.shields.io/badge/Codeforces-1350%20Max-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/RifatHossain47/"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/rifathossain47"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20(1520)-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <img src="https://img.shields.io/badge/Problem%20Solving-500%2B%20Solved-10B981?style=flat-square" alt="500+ Solved" />
 </p>
 
 ---
@@ -246,27 +257,8 @@
 
 ---
 
-## 🎨 Creative Media & Leadership
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/RifatHossaiN47/Graphic-Design">Visual Identity & Creative Media Portfolio</a></h4>
-      <p>Extensive creative portfolio featuring event marketing campaigns (IEEE CS CUET, Computer Club), vector logos, YouTube cover art, and motion graphics title openers.</p>
-      <p><a href="https://github.com/RifatHossaiN47/Graphic-Design">🎨 Explore Design Showcase →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>👔 Extracurricular Leadership & Achievements</h4>
-      <p><b>General Secretary</b> at Dhaka College Association of CUET (DCAC) · Finalist presenter at <b>3MT Bangladesh 2025</b> · Participant at <b>ITBI Startup Pitch Fest 2026</b>.</p>
-      <p><a href="https://github.com/RifatHossaiN47/professional-certifications">📜 View Verified Certifications →</a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 <details>
-<summary>📂 <b>View All 33 Repositories (Categorized Directory)</b></summary>
+<summary>📂 <b>View All 33 Repositories (Categorized Archive)</b></summary>
 <br/>
 
 * **Full-Stack & Web**: [rifathossen47](https://github.com/RifatHossaiN47/rifathossen47), [cuet-foodexpress-frontend](https://github.com/RifatHossaiN47/cuet-foodexpress-frontend), [cuet-foodexpress-backend](https://github.com/RifatHossaiN47/cuet-foodexpress-backend), [krems](https://github.com/RifatHossaiN47/krems), [Stadium-Ticket-Management-System](https://github.com/RifatHossaiN47/Stadium-Ticket-Management-System), [Java-Spring-boot-Quiz-web-app](https://github.com/RifatHossaiN47/Java-Spring-boot-Quiz-web-app), [gooqle](https://github.com/RifatHossaiN47/gooqle), [siyam-it-center](https://github.com/RifatHossaiN47/siyam-it-center), [Rifat_Portfolio](https://github.com/RifatHossaiN47/Rifat_Portfolio)
@@ -280,6 +272,6 @@
 <br/>
 
 <div align="center">
-  <p><i>"Passionate about turning complex real-world problems into clean, scalable, human-centered systems."</i></p>
+  <p><i>"Passionate about turning complex real-world challenges into scalable, human-centered software."</i></p>
   <sub>Open to Software Engineering & Applied AI Opportunities • <a href="mailto:rifat8851@gmail.com">rifat8851@gmail.com</a></sub>
 </div>
